@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my first Git Repository
-Author - Siddharth B.
+Author - Siddharth Bhusari.
